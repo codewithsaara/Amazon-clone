@@ -4,3 +4,4 @@ Features
 	•	Hero section with promotional banners
 	•	Product rows/cards styled like Amazon
 	•	Footer section with multiple columns
+websiet ->>> https://inquisitive-cuchufli-692696.netlify.app/
